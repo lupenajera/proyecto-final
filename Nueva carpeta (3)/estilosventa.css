@@ -1,0 +1,52 @@
+.nav-link{
+    color: snow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: rgba(184, 206, 255, 0.726);
+    margin-right: 12px;
+    margin-left: 12px;
+}
+.navbar-brand img{
+    max-width: 120px;
+}
+body{
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.col{
+    margin-left: 60px;
+    margin-right: 10px;
+}
+h1{
+    font-size: 3rem;
+    font-family: Arial Narrow, sans-serif;
+}
+.card-body button{
+    width: 50%;
+}
+.contacto{
+    background-color: rgb(46, 46, 46);
+}
+h8{
+    color: white;
+    font-size: 3rem;
+    font-family: Arial Narrow, sans-serif;
+}
+.col p{
+    color: white;
+}
+h9{
+    color: white;
+    font-size: 1.5rem;
+    font-family: Arial Narrow, sans-serif;
+    }
+h3{
+    font-size: 3rem;
+    font-family: Arial Narrow, sans-serif;
+    text-align: center;
+}
+.card p{
+    color: black;
+}

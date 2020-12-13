@@ -1,0 +1,30 @@
+#barra{
+    position: '-webkit-sticky'; 
+    position: sticky;
+    top: 10px; 
+}
+h1,h3{
+    text-align: center;
+    font-family: 'dominique';
+    font-weight: 900;
+}
+.accordion-body{
+    font-family: 'Arial Narrow';
+}
+.enlaces{
+    text-align: center;
+}
+body{
+    background-color: rgba(190, 217, 252, 0.708);
+}
+.accordion-header{
+    font-family: 'arial';
+}.info{
+    background-color: rgba(46,46,46);
+}
+.card{
+    background-color:  rgba(46,46,46);
+}.equipo{
+    font-size: 25px;
+    font-weight: 700;
+}
